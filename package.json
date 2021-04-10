@@ -4,8 +4,9 @@
   "description": "Quickselect implementation and simulations",
   "main": "src/app.js",
   "author": "Joe Desmond",
-  "license": "MIT",
-  "private": true,
+  "repository": "https://github.com/Dezzmeister/csci2244-p2",
+  "license": "None",
+  "private": false,
   "scripts": {
     "run": "npx ts-node src/app.ts",
     "lint": "tslint -c tslint.json -p ."
