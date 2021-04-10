@@ -1,0 +1,18 @@
+{
+  "name": "quickselect",
+  "version": "1.0.0",
+  "description": "Quickselect implementation and simulations",
+  "main": "src/app.js",
+  "author": "Joe Desmond",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "run": "npx ts-node src/app.ts",
+    "lint": "tslint -c tslint.json -p ."
+  },
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.2.4"
+  }
+}
